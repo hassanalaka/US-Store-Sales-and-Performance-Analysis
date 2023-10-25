@@ -62,9 +62,9 @@ Transactions by Segment             |  Visualization Chart
 
 #### What is the overall trend in revenue over time?
 
-The sales trend was analyzed by plotting the order date against the sales. The analysis is visualized with the aid of a line chart. The result is highlighted below. 
+The sales trend was analyzed by plotting year against the sales. The analysis is visualized with the aid of a line chart. The analysis showed a great increment in the revenues generated from 2014 to 2017.  The result is highlighted below. 
 
-![](sales_trend.png)
+![](sales_trend2.png)
 
 #### What is the number of transactions generated from each region? 
 
