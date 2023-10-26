@@ -12,8 +12,9 @@ This analysis intends to answer the following questions:
 2.	What is the total revenue generated from each segment? 
 3.	What is the number of transactions generated from each segment? 
 4.	What is the overall trend in revenue generated over time? 
-5.	What is the average frequency of each customer’s visit? 
-6.	What is the total profit generated from each state?
+5.	What is the number of transactions generated from each region?
+6.	What is the total profit generated from each region?
+
 
 ## Data Sourcing 
 
